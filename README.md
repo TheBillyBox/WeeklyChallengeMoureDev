@@ -14,5 +14,6 @@ JavaScript
 Cada semana tiene un directorio distinto y dentro contiene el enunciado del problema y una posible solución.
 </p>
 <ul>
-    <li>Semana 0: El famoso Fizz Buzz</li>
+    <li><b>Semana 0:</b> El famoso Fizz Buzz</li>
+    <li><b>Semana 1:</b> ¿Es un anagrama?</li>
 </ul>
