@@ -3,7 +3,7 @@ const palabra1 = process.argv[2].split("") // Primera palabra
 const palabra2 = process.argv[3].split("") // Segunda palabra
 if (process.argv[2] === process.argv[3]) {
     console.log("Dos palabras exactamente iguales no son un enagrama")
-} else {
+} else if (palabra1.length === palabra2.length) {
     for (let i = 0; i < palabra1.length; i++) {
         if (palabra2.includes(palabra1[i])) {
             removeItemOfArray(palabra1[i])
@@ -15,6 +15,8 @@ if (process.argv[2] === process.argv[3]) {
             console.log(`${process.argv[3]} es un anagrama de ${palabra1.join("")}`)
         }
     }
+} else {
+    console.log("Para comprobar si son un anagrama, tienen que ser de la misma longitud")
 }
 
 function removeItemOfArray (item) {
