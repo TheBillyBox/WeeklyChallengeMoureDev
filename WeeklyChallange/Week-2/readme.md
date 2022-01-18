@@ -1,4 +1,4 @@
-<p>Reto #1 ¿ES UN ANAGRAMA?</p>
+<p>Reto #2 ¿ES UN ANAGRAMA?</p>
 <ul>
   <li>Fecha publicación enunciado: 10/01/22</li>
   <li>Dificultad: DIFÍCIL</li>

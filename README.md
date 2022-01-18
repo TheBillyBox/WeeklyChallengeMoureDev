@@ -15,4 +15,5 @@ Cada semana tiene un directorio distinto y dentro contiene el enunciado del prob
   <li><b>Semana 0:</b> El famoso Fizz Buzz</li>
   <li><b>Semana 1:</b> ¿Es un anagrama?</li>
   <li><b>Semana 2:</b> Sucesión de fubonacci</li>
+  <li><b>Semana 3:</b> ¿Es un numero primo?</li>
 </ul>
